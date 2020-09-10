@@ -17,4 +17,3 @@ if (action ==="hello") {
    display.textContent = "Hello" + " " + updateName;
 }
 }
-})
